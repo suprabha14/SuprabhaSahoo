@@ -1,0 +1,8 @@
+com\employee\EmployeeManagementSystemApplication.class
+com\employee\config\PrimaryDataSourceConfig.class
+com\employee\repository\SecondaryEmployeeRepository.class
+com\employee\entity\PrimaryEmployee.class
+com\employee\config\SecondaryDataSourceConfig.class
+com\employee\controller\EmployeeController.class
+com\employee\entity\SecondaryEmployee.class
+com\employee\repository\PrimaryEmployeeRepository.class
